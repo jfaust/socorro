@@ -10,7 +10,7 @@
 
 apt-get update && apt-get install git-core puppet
 
-GIT_REPO_URL="git://github.com/jfaust-st/socorro.git"
+GIT_REPO_URL="git://github.com/jfaust/socorro.git"
 
 mkdir /puppet
 
